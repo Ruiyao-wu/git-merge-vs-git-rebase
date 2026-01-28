@@ -1,6 +1,6 @@
 # Git Merge vs Git Rebase: Best Practices Guide
 
-Add something to test merge
+Add something to test rebase
 
 A comprehensive guide with practical examples for understanding when and how to use `git merge` vs `git rebase` in team workflows.
 
